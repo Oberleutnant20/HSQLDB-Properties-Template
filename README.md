@@ -1,5 +1,5 @@
-# HSQLDB TEMPLATES
-Template Properties, Batch and Shell Files
+# HSQLDB TEMPLATES/EXAMPLES
+Template/Example Properties, Batch and Shell Files
 
 ## FILES
 1. The .propertie must be in  the root directory of hsqldb for Example: hsqldb_2-4-0\
