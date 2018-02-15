@@ -6,9 +6,9 @@
 
 #### ** Haben Sie einen Fehler gefunden? **
 
-* ** Stellen Sie sicher, dass der Fehler nicht bereits gemeldet wurde **, indem Sie auf GitHub unter [Probleme](https://github.com/Oberleutnant20/Spediverwaltung/issues) suchen.
+* ** Stellen Sie sicher, dass der Fehler nicht bereits gemeldet wurde **, indem Sie auf GitHub unter [Probleme](https://github.com/Oberleutnant20/HSQLDB-Template/issues) suchen.
 
-* Falls Sie kein offenes Problem finden können, das das Problem angeht, [öffnen Sie ein neues](https://github.com/Oberleutnant20/Spediverwaltung/issues/new). Achten Sie darauf, einen ** Titel und eine eindeutige Beschreibung ** sowie so viele relevante Informationen wie möglich anzugeben, die das erwartete Verhalten zeigen, das nicht auftritt.
+* Falls Sie kein offenes Problem finden können, das das Problem angeht, [öffnen Sie ein neues](https://github.com/Oberleutnant20/HSQLDB-Template/issues/new). Achten Sie darauf, einen ** Titel und eine eindeutige Beschreibung ** sowie so viele relevante Informationen wie möglich anzugeben, die das erwartete Verhalten zeigen, das nicht auftritt.
 
 #### ** Hast du einen Patch geschrieben, der einen Fehler behebt? **
 
