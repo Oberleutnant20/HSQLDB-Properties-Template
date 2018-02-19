@@ -4,6 +4,9 @@ Template/Example Properties, Batch and Shell Files
 ## FILES
 1. The .propertie must be in  the root directory of hsqldb for Example: hsqldb_2-4-0/
 2. The .bat or .sh file must be in the <root_directory_from_hsqldb>/bin
+3. To Connect the Server Select: <br>
+   Type = HSQL Database Engine Server <br>
+   URL = jdbc:hsqldb:hsql://localhost/<alias>
 
 ## Logging<br>
 The SQL- and Eventlogging are on default = 0.
