@@ -1,4 +1,4 @@
-#### [German version(deutsche Version)](https://github.com/Oberleutnant20/Spediverwaltung/blob/master/docs/CONTRIBUTING.md)
+#### [German version(deutsche Version)](https://github.com/Oberleutnant20/HSQLDB-Properties-Template/blob/master/docs/CONTRIBUTING.md)
 #### English version(englische Version)
 
 
@@ -46,4 +46,4 @@ Start reading our code and you'll get the hang of it. We optimize for readabilit
 
 Thanks! :heart: :heart: :heart:
 
-Unique-Players.de Team
+
