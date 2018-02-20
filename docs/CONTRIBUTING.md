@@ -45,5 +45,3 @@ Beginnen Sie mit dem Lesen unseres Codes und Sie werden den Dreh herausfinden. W
   * Dies ist eine Open-Source-Software. Betrachten Sie die Leute, die Ihren Code lesen und ihn für sie nett aussehen lassen. Es ist so, als würde man ein Auto fahren: Vielleicht magst du Donuts, wenn du alleine bist, aber mit Fahrgästen ist es das Ziel, die Fahrt so glatt wie möglich zu machen.
 
 Vielen Dank! :heart: :heart: :heart:
-
-Unique-Players.de Team
