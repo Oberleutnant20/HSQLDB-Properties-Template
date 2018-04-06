@@ -1,3 +1,4 @@
 @echo off
 cd <path/to/hsqldb>/lib/
-java -cp hsqldb.jar org.hsqldb.lib.tar.DbBackupMain --extract ../.bakcup/<datenbankname>.tar <speicherort>
+set /p name=Geben Sie den Namen des Backups an: 
+java -cp hsqldb.jar org.hsqldb.lib.tar.DbBackupMain --extract ../.bakcup/%name%.tar <speicherort>
