@@ -46,4 +46,9 @@ SET DATABASE EVENT LOG SQL LEVEL { 0 | 1 | 2 | 3}
 ## Backups
 
 The Backup/Restroke Scrips are in Shell(sh) or Batch(bat). They must be Edited to the right Path of HSQLDB.
+***
+Batch and Shell have Vars to set the "Name" and "Path"<br>
+<br>
+For Example: <br>
+<strong>Path:</strong> "/Desktop/db/TestDB"
 
