@@ -1,4 +1,4 @@
 @echo off
-cd <Path/to/HSQLDB/lib/
+cd <Path/to/HSQLDB>/lib/
 set /p name=Geben Sie einen Namen für das Backup an: 
 java -cp hsqldb.jar org.hsqldb.lib.tar.DbBackupMain --save ../.backup/%name%.tar <speicherort>
