@@ -20,7 +20,7 @@ application logging level - can also be used when opening an existing file: data
 Level 0: indicates no logging. <br>
 Level 1: results in minimal logging, including any failures. <br>
 Level 2: indicates all events, including ordinary events. <br>
-LEVEL 3: adds details of some of the normal operations. <br>
+Level 3: adds details of some of the normal operations. <br>
 The events are logged in a file ending with ".app.log". <br>
 
 2. <strong>SQL Log: </strong><br>
